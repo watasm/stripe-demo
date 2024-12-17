@@ -27,7 +27,7 @@
     "react-dom": "^18",
     "sass": "^1.77.8",
     "stripe": "^16.9.0",
-    "tailwind-merge": "^2.3.0",
+    "tailwind-merge": "^2.5.5",
     "tailwind-scrollbar-hide": "^1.1.7"
   },
   "devDependencies": {
